@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF000000</color>
+    <color name="purple_500">#FF696969</color>
+    <color name="purple_700">#FF808080</color>
+    <color name="teal_200">#FFA9A9A9</color>
+    <color name="teal_700">#FFC0C0C0</color>
+    <color name="black">#FFD3D3D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gains_boro">#FFDCDCDC</color>
+    <color name="verde_claro">#FF90EE90</color>
+    <color name="dourado">#FFDAA520</color>
+    <color name="vermelho">#FFFF0000</color>
+    <color name="mascara">#33000000</color>
+
+
+
+    <color name="tela_adm">#33FF8C00</color>
+    <color name="tela_caixa">#33FF8C00</color>
+    <color name="tela_atendente">#33FF8C00</color>
+
+
+
+
+
+</resources>

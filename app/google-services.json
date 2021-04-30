@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477306390378",
+    "project_id": "tiques-d70a1",
+    "storage_bucket": "tiques-d70a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477306390378:android:5c98dd6b3b702351dec713",
+        "android_client_info": {
+          "package_name": "com.allin.sdainfo.tique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477306390378-sbbbmrnjvmmo1adln6ctmbsm9aqsomao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allin.sdainfo.tique",
+            "certificate_hash": "ec8c0fd483c611cbbfa645ab4ba008bb10606f92"
+          }
+        },
+        {
+          "client_id": "477306390378-vsmb63umbb1lo0m52uu3drtqe20jflma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwShrYCC_-KSSgbMDwRzFgke8Z3JmRIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477306390378-vsmb63umbb1lo0m52uu3drtqe20jflma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

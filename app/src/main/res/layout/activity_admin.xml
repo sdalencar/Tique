@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/tela_adm"
+    android:orientation="horizontal"
+    tools:context=".act.AdminActivity">
+
+
+    <TableLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:ignore="MissingConstraints">
+
+        <Button
+            android:id="@+id/bt_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/loja" />
+
+        <Button
+            android:id="@+id/bt_02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_02" />
+
+        <Button
+            android:id="@+id/bt_03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_03" />
+
+        <Button
+            android:id="@+id/bt_04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_04" />
+
+        <Button
+            android:id="@+id/bt_05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_05" />
+
+        <Button
+            android:id="@+id/bt_06"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_06" />
+
+        <Button
+            android:id="@+id/bt_07"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_07" />
+
+        <Button
+            android:id="@+id/bt_08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_08" />
+
+        <Button
+            android:id="@+id/bt_09"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_09" />
+
+        <Button
+            android:id="@+id/bt_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_10" />
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:ignore="MissingConstraints">
+
+        <Button
+            android:id="@+id/bt_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_11" />
+
+        <Button
+            android:id="@+id/bt_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_12" />
+
+        <Button
+            android:id="@+id/bt_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_13" />
+
+        <Button
+            android:id="@+id/bt_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_14" />
+
+        <Button
+            android:id="@+id/bt_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_15" />
+
+        <Button
+            android:id="@+id/bt_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_16" />
+
+        <Button
+            android:id="@+id/bt_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_17" />
+
+        <Button
+            android:id="@+id/bt_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_18" />
+
+        <Button
+            android:id="@+id/bt_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/bt_19" />
+
+        <Button
+            android:id="@+id/bt_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bc_adm"
+            android:onClick="onClickBtn"
+            android:padding="20dp"
+            android:text="@string/sair" />
+
+    </TableLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
